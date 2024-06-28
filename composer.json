@@ -21,6 +21,7 @@
         "drupal/core-recommended": "^10.2",
         "drush/drush": "^12.3",
         "platformsh/config-reader": "^2.4"
+        "drupal/webform": "*"
     },
     "conflict": {
         "drupal/drupal": "*"
